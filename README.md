@@ -1,0 +1,6 @@
+# JMH BENCHMARK
+
+## 常用JSON库序列化反序列化测试
+GSON
+JACKSON
+FASTJSON
