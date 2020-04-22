@@ -10,6 +10,7 @@
         <module>json-benchmark</module>
         <module>counter-benchmark</module>
         <module>springboot-benchmark</module>
+        <module>util-benchmark</module>
     </modules>
     <packaging>pom</packaging>
 

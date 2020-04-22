@@ -10,3 +10,9 @@
 
 ### springboot-benchmark
 springboot 基准测试集成, `demo`测试使用`jpa`插入`mysql`数据库的性能.
+
+
+### util-benchmark
+常用Util工具类测试.
+
+- org.apache.commons.lang3.RandomStringUtils.random()测试
